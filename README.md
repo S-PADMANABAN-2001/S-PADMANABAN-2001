@@ -18,9 +18,9 @@ technology with good Academic records, and diligence.
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  </p>
  <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=S-PADMANABAN-2001&show_icons=true&theme=dark&title_color=3023e7&text_color=d0f80d&bg_color=070708&cache_seconds=1805&locale=en&layout=compact" alt="S-PADMANABN-2001" /></p>
+<p display="flex"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=S-PADMANABAN-2001&show_icons=true&theme=dark&title_color=3023e7&text_color=d0f80d&bg_color=070708&cache_seconds=1805&locale=en&layout=compact" alt="S-PADMANABN-2001" /></p>
 
-<br>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-PADMANABAN-2001&show_icons=true&theme=dark&title_color=262af2&text_color=fdfd17&bg_color=0f0e11&cache_seconds=1805&locale=en" alt="S-PADMANABAN-2001" /></p>
 
 <br>
