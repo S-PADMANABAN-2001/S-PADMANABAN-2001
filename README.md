@@ -1,5 +1,5 @@
 # Hi there 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=s-padmanaban-2001&label=Profile%20views&color=131011&style=flat" alt="s-padmanaban-2001" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=S-PADMANABAN-2001&label=Profile%20views&color=131011&style=flat" alt="S-PADMANABAN-2001" /> </p>
 
 <h1 align="center">Hi 👋, I'm S PADMANABAN</h1>
 <h3 align="center">A passionate frontend developer from India.<br>Interested in Learning
@@ -19,16 +19,16 @@ technology with good Academic records, and diligence.
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  </p>
  <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-padmanaban-2001&show_icons=true&theme=dark&title_color=3023e7&text_color=d0f80d&bg_color=070708&cache_seconds=1805&locale=en&layout=compact" alt="s-padmanaban-2001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=S-PADMANABAN-2001&show_icons=true&theme=dark&title_color=3023e7&text_color=d0f80d&bg_color=070708&cache_seconds=1805&locale=en&layout=compact" alt="S-PADMANABN-2001" /></p>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-padmanaban-2001&show_icons=true&theme=dark&title_color=262af2&text_color=fdfd17&bg_color=0f0e11&cache_seconds=1805&locale=en" alt="s-padmanaban-2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-PADMANABAN-2001&show_icons=true&theme=dark&title_color=262af2&text_color=fdfd17&bg_color=0f0e11&cache_seconds=1805&locale=en" alt="S-PADMANABAN-2001" /></p>
 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-padmanaban-2001&theme=dark" alt="s-padmanaban-2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S-PADMANABAN-2001&theme=dark" alt="S-PADMANABAN-2001" /></p>
 
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-padmanaban-2001" alt="s-padmanaban-2001" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-PADMANABAN-2001" alt="S-PADMANABAN-2001" /></a> </p>
 
 <!--
 **S-PADMANABAN-2001/S-PADMANABAN-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
