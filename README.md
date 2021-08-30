@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=S-PADMANABAN-2001&label=Profile%20views&color=131011&style=flat" alt="S-PADMANABAN-2001" /> </p>
 
 <h1 align="center">Hi 👋, I'm S PADMANABAN</h1>
