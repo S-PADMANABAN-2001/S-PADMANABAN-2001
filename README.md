@@ -5,6 +5,8 @@
 and for Practical exposure in the field of engineering and
 technology with good Academic records, and diligence.
 </h3>
+<br><br>
+<h3 align="center">- 🌱 I’m currently learning JAVA and DSA</h3>
 <br>
 <h2 align="center">My Badges</h2>
 <br>
