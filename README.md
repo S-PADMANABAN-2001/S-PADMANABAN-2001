@@ -17,6 +17,10 @@ technology with good Academic records, and diligence.
 <a href="https://api.badgr.io/public/assertions/1bKtLrA3QPmwWUvv75xrSw" target="_blank"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/1bKtLrA3QPmwWUvv75xrSw/image" ></a>
 <a href="https://api.badgr.io/public/assertions/Sn_93aRNSUSK50pPWkVbJg" target="_blank"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/Sn_93aRNSUSK50pPWkVbJg/image"></a>
 <br>
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+ </p>
+ <br>
 <h2 align="center">Languages and Tools:</h2>
 <br>
 <p align="center"> 
