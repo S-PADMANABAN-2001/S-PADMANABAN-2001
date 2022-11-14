@@ -19,6 +19,8 @@ technology with good Academic records, and diligence.
 <a href="https://api.badgr.io/public/assertions/1bKtLrA3QPmwWUvv75xrSw" target="_blank"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/1bKtLrA3QPmwWUvv75xrSw/image" ></a>
 <a href="https://api.badgr.io/public/assertions/Sn_93aRNSUSK50pPWkVbJg" target="_blank"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/Sn_93aRNSUSK50pPWkVbJg/image"></a>
 <br>
+[![@padmanaban's Holopin board](https://holopin.me/padmanaban)](https://holopin.io/@padmanaban)
+<br/>
  <h2 align="center">Connect with me:</h2>
 <p align="center">
  <a href="https://www.linkedin.com/in/padmanaban-s-0211021b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="S PADMANABAN LINKED IN" height="50" width="60" /></a>
