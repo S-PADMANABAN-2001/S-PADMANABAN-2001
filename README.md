@@ -27,7 +27,8 @@ technology with good Academic records, and diligence.
  <br/>
  <h2 align="center">Connect with me:</h2>
 <p align="center">
- <a href="https://www.linkedin.com/in/padmanaban-s-0211021b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="S PADMANABAN LINKED IN" height="50" width="60" /></a>
+ <a href="https://www.linkedin.com/in/padmanaban-s-0211021b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="S PADMANABAN LINKED IN" height="50" width="60" /></a> 
+ <a href="https://twitter.com/https://twitter.com/s_padmanaban_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/s_padmanaban_1" height="50" width="60" /></a>
  </p>
  <br>
 <h2 align="center">Languages and Tools:</h2>
