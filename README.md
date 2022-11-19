@@ -14,7 +14,7 @@ technology with good Academic records, and diligence.
 <h2 align="center">My Badges</h2>
 <br>
 <p  align="center" display="flex" flex-direction="column">
- <!--<a href="https://www.credly.com/badges/e843181e-b8a4-41fc-87b0-93f3aec69496/public_url" target="_blank"><img width="120px" height="120px" src="https://images.credly.com/size/220x220/images/dd83875c-d0be-4517-a285-b7bc415b2a42/R_Programming_for_Data_Science_Essentials.png"></a><br>-->
+<a href="https://www.credly.com/badges/e843181e-b8a4-41fc-87b0-93f3aec69496/public_url" target="_blank"><img width="120px" height="120px" src="https://images.credly.com/size/220x220/images/dd83875c-d0be-4517-a285-b7bc415b2a42/R_Programming_for_Data_Science_Essentials.png"></a><br>
  <a href="https://api.badgr.io/public/assertions/-KZSeOTMReumCvHq1vANtg" target="_blank"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/-KZSeOTMReumCvHq1vANtg/image"></a>
  <br>
 <a href="https://api.badgr.io/public/assertions/B11L2P87SIyObWhSiM4HfQ" target="_blank"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/B11L2P87SIyObWhSiM4HfQ/image"></a>
