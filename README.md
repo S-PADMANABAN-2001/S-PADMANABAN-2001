@@ -63,7 +63,7 @@ technology with good Academic records, and diligence.
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-PADMANABAN-2001" alt="S-PADMANABAN-2001" /></a> </p>
 <br><br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=S-PADMANABAN-2001&label=Profile%20views&color=131011&style=flat" alt="S-PADMANABAN-2001" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=S-PADMANABAN-2001&label=Profile%20views&color=131011&style=nord" alt="S-PADMANABAN-2001" /> </p>
 
 <!--
 **S-PADMANABAN-2001/S-PADMANABAN-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
