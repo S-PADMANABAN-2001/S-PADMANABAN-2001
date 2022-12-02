@@ -1,6 +1,6 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<h1 align="center">Hi 👋, I'm S PADMANABAN</h1><img src="output-onlinegiftools.gif" align="right" height="350px" width="350px" position="relative">
+<h1 align="center">Hi 👋, I'm S PADMANABAN</h1><img src="output-onlinegiftools.gif" alt='gif' align="right" height="350px" width="350px" position="relative">
 <h3 align="center">A passionate frontend developer from India.<br>Interested in Learning
 and for Practical exposure in the field of engineering and
 technology with good Academic records, and diligence.
