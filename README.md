@@ -7,9 +7,11 @@ technology with good Academic records, and diligence.
 </h3>
 <br><br>
 
-<h3 align="left">- 🌱 I’m currently learning JAVA and DSA</h3>
-<h3 align="left">- 🌱 I’m currently learning React JS</h3>
-<h3 align="left">- 🌱 Trying to contribute to Open Source</h3>
+<h3 align="left">- 🌱 I’m currently practicing DSA</h3>
+<h3 align="left">- 🌱 I’m currently learning React JS, Angular </h3>
+<h3 align="left">- 🧐 Trying to contribute to Open Source</h3>
+<h3 align="left">- 📫 Contact me - <a href='sivapadmanaban2001@gmail.com'>sivapadmanaban2001@gmail.com</a>
+
 <br>
 <h2 align="center">My Badges</h2>
 <br>
