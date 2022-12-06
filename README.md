@@ -51,15 +51,13 @@ technology with good Academic records, and diligence.
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
  </p>
  <br>
-<p display="flex"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=S-PADMANABAN-2001&show_icons=true&theme=dark&title_color=3023e7&text_color=d0f80d&bg_color=070708&cache_seconds=1805&locale=en&layout=compact" alt="S-PADMANABN-2001" /></p>
-
+<p style="display: flex; flex-direction: column;" align="center">
+<p display="flex" align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=S-PADMANABAN-2001&show_icons=true&theme=dark&title_color=3023e7&text_color=d0f80d&bg_color=070708&cache_seconds=1805&locale=en&layout=compact" alt="S-PADMANABN-2001" /></p>
 <br>
+<p  display="flex" align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-PADMANABAN-2001&show_icons=true&theme=dark&title_color=262af2&text_color=fdfd17&bg_color=0f0e11&cache_seconds=1805&locale=en" alt="S-PADMANABAN-2001" /></p>
 <br>
-<p display="flex" align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=S-PADMANABAN-2001&show_icons=true&theme=dark&title_color=262af2&text_color=fdfd17&bg_color=0f0e11&cache_seconds=1805&locale=en" alt="S-PADMANABAN-2001" /></p>
-
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S-PADMANABAN-2001&theme=dark" alt="S-PADMANABAN-2001" /></p>
-
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S-PADMANABAN-2001&theme=dark" alt="S-PADMANABAN-2001" /></p>
+</p>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-PADMANABAN-2001" alt="S-PADMANABAN-2001" /></a> </p>
 <br><br><br>
