@@ -59,7 +59,7 @@ technology with good Academic records, and diligence.
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=S-PADMANABAN-2001&theme=dark" alt="S-PADMANABAN-2001" /></p>
 </p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-PADMANABAN-2001&theme=onedark" alt="S-PADMANABAN-2001" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=S-PADMANABAN-2001&theme=flat" alt="S-PADMANABAN-2001" /></a> </p>
 <br><br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=S-PADMANABAN-2001&label=Profile%20views&color=131011&style=nord" alt="S-PADMANABAN-2001" /> </p>
 
